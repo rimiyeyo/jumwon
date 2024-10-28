@@ -1,0 +1,12 @@
+langchain==0.3.4
+langchain_anthropic==0.2.3
+langchain_community==0.3.3
+langchain_openai==0.2.3
+langchain_upstage==0.3.0
+langchain-teddynote==0.3.14
+pandas==2.2.3
+faiss-gpu==1.7.2
+flask==3.0.3
+flask-cors==5.0.0
+python==3.10.12
+pydantic
